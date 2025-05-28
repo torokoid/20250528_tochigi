@@ -189,7 +189,7 @@ p.note { display: none; }
 <a href="20250528_025.JPG" target="_blank"><img src="20250528_025.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">本屋で見つけた雑誌記事によるとAIで絵が描けるとのこと</span></h2>
-<a href="20250528_043.JPG" target="_blank"><img src="20250528_043.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250528_044.JPG" target="_blank"><img src="20250528_044.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">早速描かせてみると、こんな絵を描いてくれました</span></h2>
 <a href="20250528_001.png" target="_blank"><img src="20250528_001.png" alt="サンプル画像" width="900" /></a>
